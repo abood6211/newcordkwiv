@@ -19,8 +19,8 @@ To download the theme, go on this [page][download-link], right-click, click "sav
 
 If you need a more detailed guide here's one for Windows and one for macOS:
 
--   [Windows](https://kaiidoo.github.io/Newcord/guides/windows.md)
--   [macOS](https://kaiidoo.github.io/Newcord/guides/macOS.md)
+-   [Windows](https://github.com/Kaiidoo/Newcord/blob/main/guides/windows.md)
+-   [macOS](https://github.com/Kaiidoo/Newcord/blob/main/guides/macOS.md)
 
 ## Customization guide
 
