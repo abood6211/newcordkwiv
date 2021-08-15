@@ -15,7 +15,7 @@ A colorful and customizable BetterDiscord theme inspired by the first page of Di
 
 ## Installation guide
 
-To install the theme, download [this file][download-link] and put it in your BetterDiscord themes folder.
+To install the theme, download the theme file [here][download-link] and put it in your BetterDiscord themes folder. Then, you just need to enable it in your BetterDiscord Theme tab.
 
 If you need a more detailed guide here's one for Windows and one for macOS:
 
