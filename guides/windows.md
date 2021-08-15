@@ -1,7 +1,7 @@
 # How to install Newcord on Windows [![Download][download-badge]][download-link] [![Support][support-badge]][support-link]
 
 [download-badge]: https://kaiidoo.github.io/Newcord/icons/github/download.svg
-[download-link]: https://kaiidoo.github.io/Newcord/src/newcord.theme.css
+[download-link]: https://betterdiscord.app/Download?id=414
 [support-badge]: https://kaiidoo.github.io/Newcord/icons/github/support.svg
 [support-link]: https://github.com/Kaiidoo/Newcord/issues
 
