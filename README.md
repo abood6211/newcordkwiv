@@ -4,7 +4,7 @@
 [coffee-badge]: https://kaiidoo.github.io/Newcord/icons/github/coffee.svg
 [support-badge]: https://kaiidoo.github.io/Newcord/icons/github/support.svg
 [patreon-badge]: https://kaiidoo.github.io/Newcord/icons/github/patreon.svg
-[download-link]: https://kaiidoo.github.io/Newcord/src/newcord.theme.css
+[download-link]: https://betterdiscord.app/Download?id=414
 [coffee-link]: https://www.buymeacoffee.com/kaiidoo
 [support-link]: https://github.com/Kaiidoo/Newcord/issues
 [patreon-link]: https://patreon.com/kaiidoo
@@ -15,7 +15,7 @@ A colorful and customizable BetterDiscord theme inspired by the first page of Di
 
 ## Installation guide
 
-To download the theme, go on this [page][download-link], right-click, click "save as" and save it in your BetterDiscord themes folder.
+To install the theme, download [this file][download-link] and put it in your BetterDiscord themes folder.
 
 If you need a more detailed guide here's one for Windows and one for macOS:
 
