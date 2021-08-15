@@ -47,4 +47,10 @@ Coming soon, sorry . . .
 
 ![Screenshot3](https://imgur.com/MZD1Sj5.png)
 
+## Credits
+
+- Big thanks to [NYRI4](https://github.com/NYRI4) for [Discolored](https://github.com/NYRI4/Discolored)
+
+You can find other credits [here](https://github.com/Kaiidoo/Newcord/blob/main/CREDITS.md).
+
 #### **Made with ![Love](https://kaiidoo.github.io/Newcord/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
