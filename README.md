@@ -4,7 +4,7 @@
 [coffee-badge]: https://kaiidoo.github.io/Newcord/icons/github/coffee.svg
 [support-badge]: https://kaiidoo.github.io/Newcord/icons/github/support.svg
 [patreon-badge]: https://kaiidoo.github.io/Newcord/icons/github/patreon.svg
-[download-link]: https://kaiidoo.github.io/Newcord/src/newcord.theme.css
+[download-link]: https://betterdiscord.app/Download?id=414
 [coffee-link]: https://www.buymeacoffee.com/kaiidoo
 [support-link]: https://github.com/Kaiidoo/Newcord/issues
 [patreon-link]: https://patreon.com/kaiidoo
@@ -15,12 +15,12 @@ A colorful and customizable BetterDiscord theme inspired by the first page of Di
 
 ## Installation guide
 
-To download the theme, go on this [page][download-link], right-click, click "save as" and save it in your BetterDiscord themes folder.
+To install the theme, download the theme file [here][download-link] and put it in your BetterDiscord themes folder. Then, you just need to enable it in your BetterDiscord Theme tab.
 
 If you need a more detailed guide here's one for Windows and one for macOS:
 
--   [Windows](https://kaiidoo.github.io/Newcord/guides/windows.md)
--   [macOS](https://kaiidoo.github.io/Newcord/guides/macOS.md)
+-   [Windows](https://github.com/Kaiidoo/Newcord/blob/main/guides/windows.md)
+-   [macOS](https://github.com/Kaiidoo/Newcord/blob/main/guides/macOS.md)
 
 ## Customization guide
 
@@ -46,5 +46,10 @@ Coming soon, sorry . . .
 ##### Server Settings
 
 ![Screenshot3](https://imgur.com/MZD1Sj5.png)
+
+## Credits
+
+- Big thanks to [NYRI4](https://github.com/NYRI4) for [Discolored](https://github.com/NYRI4/Discolored)
+- You can find other credits [here](https://github.com/Kaiidoo/Newcord/blob/main/CREDITS.md).
 
 #### **Made with ![Love](https://kaiidoo.github.io/Newcord/icons/github/heart.svg) by [Kaido](https://github.com/kaiidoo)**
