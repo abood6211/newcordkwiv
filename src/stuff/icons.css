@@ -460,6 +460,12 @@
     -webkit-mask: url(https://kaiidoo.github.io/Newcord/icons/server%20settings/welcomeScreen.svg)
         center/contain no-repeat;
 }
+.sidebar-CFHs9e
+    .side-8zPYf6
+    .item-PXvHYJ[aria-controls="threads-tab" i]::before {
+    -webkit-mask: url(https://kaiidoo.github.io/Newcord/icons/server%20settings/threads.svg)
+        center/contain no-repeat;
+}
 /* User Management */
 .sidebar-CFHs9e
     .side-8zPYf6
