@@ -805,9 +805,15 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .gifFavoriteButton-3Zycl7:hover {
     color: #ffcc4d;
 }
-/* Embeds of games' links */
+/* Nitro and Games' embeds */
 .theme-dark .tile-2OwFgW {
     background-color: var(--background-tertiary);
+}
+.theme-dark .tile-2OwFgW:hover {
+    background-color: var(--background-floating);
+}
+.theme-dark .invalidPoop-pnUbq7 {
+    background-color: rgba(62, 63, 101, 0.3);
 }
 
 /* ------------------------------------------------------------ 🌷 VOCAL ------------------------------------------------------------ */
