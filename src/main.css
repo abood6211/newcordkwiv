@@ -378,6 +378,28 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     background-color: var(--background-accent);
 }
 
+/* ---- Custom CSS editor ---- */
+.monaco-editor,
+.monaco-editor-background,
+.monaco-editor .inputarea.ime-input,
+.monaco-editor .margin,
+.monaco-editor .minimap-decorations-layer,
+.monaco-editor .visible.scrollbar.vertical {
+    background-color: var(--background-tertiary) !important;
+}
+.monaco-editor .hover-contents {
+    background-color: var(--background-secondary-alt);
+}
+.monaco-editor .view-lines .mtk4 {
+    color: #f95b4f;
+}
+.monaco-editor .view-lines .mtk5 {
+    color: #ec8824;
+}
+.monaco-editor .view-lines .mtk8 {
+    color: #b392f0;
+}
+
 /* ------------------------------------------------------------ 🌿 CHANNEL ------------------------------------------------------------ */
 
 /* ---- Guild Header Popout ---- */
