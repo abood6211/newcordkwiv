@@ -805,6 +805,10 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .gifFavoriteButton-3Zycl7:hover {
     color: #ffcc4d;
 }
+/* Embeds of games' links */
+.theme-dark .tile-2OwFgW {
+    background-color: var(--background-tertiary);
+}
 
 /* ------------------------------------------------------------ 🌷 VOCAL ------------------------------------------------------------ */
 
