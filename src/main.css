@@ -921,27 +921,6 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 
 /* ------------------------------------------------------------ 🐻 PLUGINS ------------------------------------------------------------ */
 
-/* ---- AccountSwitcher ---- */
-.accountswitcher-switchmenu {
-    background-color: var(--background-floating) !important;
-}
-.accountswitcher-switchmenu[style="bottom: 59px; left: 85px;"] {
-    bottom: 67px !important;
-    left: 90px !important;
-    box-shadow: var(--elevation-high) !important;
-}
-.accountswitcher-removeaccount {
-    display: none;
-}
-.accountswitcher-menuavatar {
-    border-radius: var(--border-radius-2) !important;
-    cursor: pointer;
-}
-/* Save Account Button */
-.plugin-input-container {
-    margin-top: 20px;
-}
-
 /* ---- StaffTag ---- */
 /* Admin Crown */
 .ownerIcon-2NH9FM.icon-1A2_vz.admin-Kv1Hp_ {
