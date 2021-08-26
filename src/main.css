@@ -1177,16 +1177,16 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/edbbf6107b2cd4334d582b26e1ac786d.png"]
+    .connectedAccountIcon-3_EQqg[alt="Twitch logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: var(--purple);
 }
-/* Youtube */
+/* YouTube */
 .body-r6_QPy
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/449cca50c1452b4ace3cbe9bc5ae0fd6.png"]
+    .connectedAccountIcon-3_EQqg[alt="YouTube logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: red;
 }
@@ -1195,7 +1195,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/8c289d499232cd8e9582b4a5639d9d1d.png"]
+    .connectedAccountIcon-3_EQqg[alt="Battle.net logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: #148eff;
 }
@@ -1204,7 +1204,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/f09c1c70a67ceaaeb455d163f3f9cbb8.png"]
+    .connectedAccountIcon-3_EQqg[alt="Steam logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: black;
 }
@@ -1213,7 +1213,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/3abe9ce5a00cc24bd8aae04bf5968f4c.png"]
+    .connectedAccountIcon-3_EQqg[alt="Reddit logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: #ff4500;
 }
@@ -1222,7 +1222,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"]
+    .connectedAccountIcon-3_EQqg[alt="Facebook logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: #1877f2;
 }
@@ -1231,7 +1231,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/4662875160dc4c56954003ebda995414.png"]
+    .connectedAccountIcon-3_EQqg[alt="Twitter logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: #1da1f2;
 }
@@ -1240,25 +1240,25 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"]
+    .connectedAccountIcon-3_EQqg[alt="Spotify logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: #1ed760;
 }
-/* Xbox */
+/* Xbox Live */
 .body-r6_QPy
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/0d44ba28e39303de3832db580a252456.png"]
+    .connectedAccountIcon-3_EQqg[alt="Xbox Live logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: #107c10;
 }
-/* Github */
+/* GitHub */
 .body-r6_QPy
     .userInfoSection-q_35fn
     .connectedAccounts-QlRa4m
     .connectedAccount-2Jb-Z0
-    .connectedAccountIcon-3_EQqg[src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"]
+    .connectedAccountIcon-3_EQqg[alt="GitHub logo"]
     + .connectedAccountNameInner-2q3MVf::before {
     background-color: #212121;
 }
