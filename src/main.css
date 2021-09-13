@@ -764,6 +764,9 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .unicodeShortcut-15J8Ck {
     background-color: var(--background-secondary-alt);
 }
+.theme-dark .emptyHintCard-2mUdMe {
+    background-color: var(--background-primary);
+}
 
 /* ---- Icons and Buttons Colors ---- */
 /* Gift */
