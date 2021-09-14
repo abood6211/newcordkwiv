@@ -26,7 +26,7 @@ If you need a more detailed guide here's one for Windows and one for macOS:
 
 Coming soon, sorry . . .
 
-![Calendar](https://kaiidoo.github.io/Newcord/icons/github/calendar.svg) It should come around September 2021.
+![Calendar](https://kaiidoo.github.io/Newcord/icons/github/calendar.svg) It should come around October / December 2021.
 
 ## Features to come
 
