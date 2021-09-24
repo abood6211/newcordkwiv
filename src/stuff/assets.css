@@ -134,57 +134,7 @@
     content: "Eux deux attendent des amis pour jouer. Mais rien ne t'oblige à en ajouter !";
 }
 
-/* ------------------------------------------------------------ 🌱 NITRO PAGE ------------------------------------------------------------ */
-
-/* ---- Make Discord Yours ---- */
-.hero-EvfTTA {
-    background-image: url(https://kaiidoo.github.io/Newcord/assets/nitro/makeDiscordYours.svg) !important;
-}
-
-/* ---- Style Your Profile ---- */
-[src="/assets/a19ddf1256b803c851e39d6b5b3202f6.svg"] {
-    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/styleYourProfile.svg) !important;
-}
-
-/* ---- Special Stickers Access ---- */
-[src="/assets/360ca22059b6b674a018547e8e18acdc.svg"] {
-    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/specialStickersAccess.svg) !important;
-}
-.stickers-1O9_W6 .featureTitle-W5O6R1 {
-    text-transform: capitalize;
-}
-
-/* ---- More Emoji Power ---- */
-[src="/assets/8e180c91237bcacc8b7ff5663262c1b7.svg"] {
-    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/moreEmojiPower.svg) !important;
-}
-
-/* ---- Support Your Server ---- */
-[src="/assets/46f302822fa43628962d28f50bb33b01.svg"] {
-    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/supportYourServer.svg) !important;
-}
-
-/* ---- Rep Your Status ---- */
-[src="/assets/e3c288f5dc697bcaea1fa76b2751b3d0.svg"] {
-    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/repYourStatus.svg) !important;
-}
-
-/* ---- Bigger Uploads ---- */
-[src="/assets/0f67189cc579386633ab41a98088cc8e.png"] {
-    content: url(https://imgur.com/okPlmip.png) !important;
-}
-
-/* ---- Longer Messages ---- */
-[src="/assets/afc30837a86d8c6aaee02fdfa2787a11.svg"] {
-    content: url(https://kaiidoo.github.io/Newcord/assets/nitro/longerMessages.svg) !important;
-}
-
-/* ---- More Servers ---- */
-[src="/assets/39a7fb525b2593689d328ad7367ee4b5.png"] {
-    content: url(https://imgur.com/N0dRCdy.png) !important;
-}
-
-/* ------------------------------------------------------------ 🐻 OTHERS ------------------------------------------------------------ */
+/* ------------------------------------------------------------ 🌱 OTHERS ------------------------------------------------------------ */
 
 /* ---- No Communities ---- */
 [src="/assets/3ed9c7cdbea131bc485afa998a5ec93e.svg"] {
