@@ -968,6 +968,11 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     content: url(https://kaiidoo.github.io/Newcord/assets/nitro/moreBackgrounds.svg) !important;
 }
 
+/* ---- Multiple Avatars ---- */
+[src="/assets/485bd905b34331a9c8ffcf29049b1c97.png"] {
+    content: url(https://imgur.com/nrX903e.png)
+}
+
 /* ---- Style Your Profile ---- */
 [src="/assets/2a7b069c2413090d8e17fedbf1647280.png"] {
     content: url(https://kaiidoo.github.io/Newcord/assets/nitro/styleYourProfile.svg) !important;
