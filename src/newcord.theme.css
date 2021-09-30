@@ -1,6 +1,6 @@
 /**
 * @name Newcord
-* @version 1.0.0
+* @version 1.0.1
 * @author ₊˚ʚ 𝑘𝑎𝑖𝑑𝑜ˊ˗
 * @authorId 789168545488699403
 * @description A colorful theme inspired by the first page of Discord's website.
@@ -12,7 +12,7 @@
 
 @import url(https://kaiidoo.github.io/Newcord/src/main.css);
 
-/* ------------------------------ 🌷 ADD A "/*" BEFORE THE LINK OF THE STUFF THAT YOU DON'T WANT TO USE ------------------------------ */
+/* ------------------------------ 🌷 ADD "/*" BEFORE THE "@import" OF THE STUFF THAT YOU DON'T WANT TO USE ------------------------------ */
 
 /* Colorize Discord's boring SVGs */
 @import url(https://nyri4.github.io/Discolored/main.css);
@@ -23,7 +23,7 @@
 /* Add icons on the personal and server settings */
 @import url(https://kaiidoo.github.io/Newcord/src/stuff/icons.css);
 
-/* To center the Discord window and add it a background */
+/* To center the Discord window and add it an outline */
 @import url(https://kaiidoo.github.io/Newcord/src/stuff/paddingWindow.css);
 
 /* ------------------------------ 🌱 THE FOLLOWING STUFF SHOULDN'T BE REMOVE IF YOU DON'T WANT TO HAVE ANY PROBLEM WITH THE THEME ------------------------------ */
